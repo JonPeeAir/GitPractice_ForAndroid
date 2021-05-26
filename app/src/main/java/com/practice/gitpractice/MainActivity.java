@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("LOCAL CHANGE");
         System.out.println("Change 4");
         System.out.println("THIS LINE WILL BE MERGED");
+        System.out.println("Hello from your friend");
     }
 }
